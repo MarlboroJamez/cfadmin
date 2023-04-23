@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "marlborojamez",
+  "private_key_id": "ba4eb08ff1ebafe951863549ce4e5352fcb3d091",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCxpMKJCL5X4TE+\neyQfK7AqtNbMqxkA2+CudqvWBGBmKO2/3GafCIVTp0N3cqXZQrpX3EprQkgS4b9Y\naUG2QC2khd0NijWn6qjggfVoxE5egs2W5/Rfb9Lydb/v/18cWT/EEhnnrRi1NSLQ\nqQXXaaQ1X7AXYy0zkmQLlGwBQjOAyQF3JHqXMz+ZbwX7xH8nX9oMGtyKByuKcuZz\nrdvTWOywSd2QhSkhyH9Olp08b8R2VYzyyPuN+bAXQTAXizlbfgH9Q2Oizz79zxqg\nP9KxLSjl6jyBeFDkvtLZM2e1bL3nCVffj/PcdmmGgnI/F8MnKel6aEzgxeP/jNvT\nlJqYZIFVAgMBAAECggEADHgZquprs0RxzfEb1HpJvShWFCYFtRs59qpgHmoj5W0w\nXwbBR0l0U65fxyB2MWgEfMqliJ4tlpxfmieX6WCGM6WtIgMBCCkpsx88KB9GDE6X\nJWVhBa/rjoGjDYgPLNtmOpo1/56VUjw0Fjxpq2NVbOUAucDdjotTLW2SH+EojKdb\n3zaTblhDSRvxJvDricQyolbHQ42UETsT6crc07X3jUuMKPgnMkLa4uikArqCJqht\nZt5Ylzyy681CVQMON2HeNwp+JOCpVgTK4BVTdGChisDDCOGuAfbirxv2Xet6XAXJ\nMqwXfzZ7yXYpi231JgJeIfRi0GOTdcQwB8agtxexMQKBgQDsJQhyiPWRoyt4EVA4\n54XbZxyq9L774Jds7c0OBNbZoDYBR/zMKAeNRHon+xDk2hI6ESr6tBexyc1R6ewa\nRC+AUQBzPSmh7ngtlPwIwrhqo6eHwJRY0cWlI2L19+MGgSu1KS7p0RiUzxkIupGb\nMUgEq1RDsI/MmLZ05buPB63MfQKBgQDAlIDHLmVcMPGO0BAPFJkmNbAvW3OiC2Kr\nMqzR7hK9sK2rtYZN3xELsFYwtf5kX4aXmiFLKHHXGNNKirPk4mpv//BATKI8G3kx\nnKYe2f/04GuCa1EDLXWhwndshmzT5Aj+S935RHlU1d+v3RdVcBIY9CZGMYQTMLpi\nXijbdkaXuQKBgC8ekJnyFDYUPfc+VSiVohMOdxzxqy4tOWnl5XW3p3tTSZNl3t6J\n2j/o+wsBQPS5QsvNYysVRmkWYF7I83CmTGgpQZK9EJKcN+S4hrXkzNGSiDpBRhiW\n+v4hmnyEEwvYOHV0m0TSkToYPOGOAMHbyogL+8tp7reffUDEGnHG0XotAoGASbfO\n/+/7rumxXgi5TPyGj4DXu5kXT31qPLx+OTIYDHLYWDV5fs+X19CdfbH8+nEytU+z\n1PBbe4ouP4eOy1v8gHkJf6OWKsodf2dGk+LBPvy1SsxHy56YO96UFn/yor3Uz3s9\nMlEK3PWt1cUdTIBE/TZgfFgyBaKOhl8i5reE2EkCgYAhMxqEbY1rplB5bgfCKyVG\nT+MAlTgHgGp1ia1jWKBgGD2CKctXOjtRPOurmCn/8Odj9mJ10PumAk2wAG3EajDM\nfJ8LBYq8zmsJYYh5yM2JQfj6uK2vdWnWrePRbosLaYemhHvDOJRopLskUxE5P69s\nCB8u63Hm62c9nzC8Ryu7dQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "cfassessment@marlborojamez.iam.gserviceaccount.com",
+  "client_id": "106923746544657687581",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cfassessment%40marlborojamez.iam.gserviceaccount.com"
+}
